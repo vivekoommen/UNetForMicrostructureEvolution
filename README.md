@@ -1,2 +1,4 @@
 # UNet-with-temporal-conditioning
-![Output GIF](output_gif.gif)
+<video autoplay loop muted playsinline>
+  <source src="output_gif.gif" type="video/gif">
+</video>
