@@ -1,3 +1,2 @@
 # UNet-with-temporal-conditioning
-[![Infinite Looping GIF](output_gif.gif)](output_gif.gif)
-
+![Output GIF](output_gif.gif)
