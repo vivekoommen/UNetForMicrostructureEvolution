@@ -1,3 +1,3 @@
 # UNet-with-temporal-conditioning
-![Output GIF](output_gif.gif)
+![Alt text](output_gif.gif)
 
