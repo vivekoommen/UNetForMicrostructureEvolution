@@ -3,7 +3,7 @@
 # Test trajectory predicted by the Hybrid Model
 ![Alt Text](output_gif.gif)
 
-## Citation
+# Citation
 
     @misc{oommen2023rethinking,
       title={Rethinking materials simulations: Blending direct numerical simulations with neural operators}, 
