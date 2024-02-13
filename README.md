@@ -1,6 +1,6 @@
 # UNet-with-temporal-conditioning
 ![Alt text](unet_architecture.png)
-# Test trajectory predicted by the Hybrid Model
+# Test trajectory predicted by the Hybrid Model (Speedup 2.27x)
 ![Alt Text](multi_output_gif.gif)
 
 # Citation
