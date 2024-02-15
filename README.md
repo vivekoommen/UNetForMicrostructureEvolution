@@ -1,7 +1,12 @@
 # UNet-with-temporal-conditioning
 ![Alt text](unet_architecture.png)
 # Test trajectory predicted by the Hybrid Model (Speedup 2.27x)
-![Alt Text](multi_output_gif.gif)
+## 1) Physical Vapour Deposition
+![Alt Text](pvd_gif.gif)
+## 2) Dendritic Microstructures
+![Alt Text](dendrite_gif.gif)
+## 3) Spinodal Decomposition
+![Alt Text](spd_gif.gif)
 
 # Citation
 
