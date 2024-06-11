@@ -7,11 +7,11 @@ Materials simulations based on direct numerical solvers are accurate but computa
 ![Alt text](images/unet_architecture.png)
 ## Test trajectories predicted by the Hybrid Model (Speedup 2.27x)
 ### 1) Physical Vapour Deposition
-![Alt Text](images/pvd_gif.gif)
+![Alt Text](images/1_pvd.gif)
 ### 2) Dendritic Microstructures
-![Alt Text](images/dendrite_gif.gif)
+![Alt Text](images/2_dendrite.gif)
 ### 3) Spinodal Decomposition
-![Alt Text](images/spd_gif.gif)
+![Alt Text](images/3_spd.gif)
 
 ## Citation
 
