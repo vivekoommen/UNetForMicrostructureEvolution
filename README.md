@@ -28,6 +28,6 @@ Materials simulations based on direct numerical solvers are accurate but computa
                    issn={2057-3960},
                   doi={10.1038/s41524-024-01319-1},
                   url={https://doi.org/10.1038/s41524-024-01319-1}
-}
+                  }
 
 
