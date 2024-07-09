@@ -15,14 +15,14 @@ Materials simulations based on direct numerical solvers are accurate but computa
 
 ## Citation
 
-      @article{oommen2024rethinking,
-        title={Rethinking materials simulations: Blending direct numerical simulations with neural operators},
-        author={Oommen, Vivek and Shukla, Khemraj and Desai, Saaketh and Dingreville, R{\'e}mi and Karniadakis, George Em},
-        journal={npj Computational Materials},
-        volume={10},
-        number={1},
-        pages={145},
-        year={2024},
-        publisher={Nature Publishing Group UK London}
-      } 
+    @article{oommen2024rethinking,
+      title={Rethinking materials simulations: Blending direct numerical simulations with neural operators},
+      author={Oommen, Vivek and Shukla, Khemraj and Desai, Saaketh and Dingreville, R{\'e}mi and Karniadakis, George Em},
+      journal={npj Computational Materials},
+      volume={10},
+      number={1},
+      pages={145},
+      year={2024},
+      publisher={Nature Publishing Group UK London}
+    } 
 
